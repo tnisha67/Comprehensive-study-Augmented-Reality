@@ -1,2 +1,3 @@
 # Comprehensive-study-Augmented-Reality
-An Exploratory Study on Augmented Reality and Tools
+## Abstract:
+This study deals with AR from scratch discussing the very essence of this technology. Various AR systems are explored with interesting examples. Furthermore, we see how it has been widely used in numerous fields making things more interesting and easier for both producer and consumer of the services. Software development kits (SDK’s) like UNITY and VUFORIA are also discussed in the view of Augmented Reality. Finally, a short experiment on a Marker based AR is performed. It has been seen that unlike Virtual Reality; AR has successfully intensified the visualization method of the user.
